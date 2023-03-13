@@ -8,9 +8,13 @@
 1. Recommended:
     - Install [Visual Studio Code](https://code.visualstudio.com/)
 
-# Setup Guide
+# Clone Repo (Windows)
+1. Open Git Bash
+1. Navigate to where you want to clone this repository
+1. Run `git clone git@github.com:bruce-glazier/google-calendar-oauth-example.git`
+
+# Run example
 1. Open this folder in VS Code
 1. Open new Terminal using the toolbar Terminal -> New Terminal
 1. Enter `npm install`.
 1. Ener `npm run sync` to run the demo (Currently launches the app
-)
